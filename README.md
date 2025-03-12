@@ -1,4 +1,4 @@
-**l0x** is a command-line tool built in Python that encrypts and decrypts files using **AES-256-GCM**, a secure encryption standard. It’s designed by **p0llux** to keep your files safe with features like secure wiping and a simple interface. Version **1.0**.
+**l0x** is a command-line tool built in Python that encrypts and decrypts files using **AES-256-GCM**, a secure encryption standard. It’s designed by **Kn0tz** to keep your files safe with features like secure wiping and a simple interface. Version **1.0**.
 ## Features
 - **Strong Encryption**: Uses AES-256-GCM for secure file protection with authentication.
 - **Secure Wiping**: Overwrites files with zeros (up to 10 passes) before deletion to prevent recovery.
